@@ -67,21 +67,9 @@ Institute of Technical Education & Research (ITER), SOA University | DSA Enthusi
 
 ---
 
-## GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=PriyanshuSingh2102&theme=onestar&no-frame=true"/>
-</p>
-
-<img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif"/>
-
----
-
 ## Certifications
 
 - Getting Started with Artificial Intelligence — IBM
-
----
 
 ## Achievements
 
