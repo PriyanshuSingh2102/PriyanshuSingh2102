@@ -19,6 +19,47 @@ Institute of Technical Education & Research (ITER), SOA University | DSA Enthusi
 
 ---
 
+## 🛠 Skills
+
+### 💻 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🌐 Frameworks & Web
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Responsive_Web_Design-4285F4?style=for-the-badge)
+
+### 🗄 Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### 📚 Core Computer Science
+- Data Structures & Algorithms
+- Object-Oriented Programming (OOP)
+- Operating Systems
+- Database Management Systems (DBMS)
+- Computer Networks
+- Software Engineering
+
+### 🛠 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Version Control](https://img.shields.io/badge/Version_Control-Git-blue?style=for-the-badge)
+
+### 🤖 AI Tools
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-8A2BE2?style=for-the-badge)
+
+---
+
 ## Tech Stack
 
 <p align="left">
@@ -66,6 +107,7 @@ Institute of Technical Education & Research (ITER), SOA University | DSA Enthusi
 </p>
 
 ---
+
 ## Certifications
 
 - Getting Started with Artificial Intelligence — IBM
@@ -80,6 +122,7 @@ Institute of Technical Education & Research (ITER), SOA University | DSA Enthusi
 - Building real-world Django web applications while strengthening DSA skills
 
 ---
+
 # 🌐 Connect With Me
 
 <p align="center">
